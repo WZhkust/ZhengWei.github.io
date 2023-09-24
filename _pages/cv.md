@@ -39,7 +39,25 @@ Skills
 
 Publications
 ======
-Feeling Present! From Physical to Virtual Cinematography Lighting Education with Metashadow.
+*Feeling Present! From Physical to Virtual Cinematography Lighting Education with Metashadow.   
+*ACM Multimedia 2023
+*Zheng Wei, Xian Xu, Lik-Hang Lee, Wai Tong, Huamin Qu, Pan Hui.
+
+*Is It the End? Guidelines for Cinematic Endings in Data Videos. 
+*ACM CHI 2023
+*Xian Xu, Aoyu Wu, Leni Yang, Zheng Wei, Rong Huang, David Yip, Huamin Qu.
+
+*Cinematography in the Metaverse: Exploring the Lighting Education on a Soundstage.
+*IEEE VR 2023
+*Xian Xu, Wai Tong, Zheng Wei, Meng Xia, Lik-Hang Lee, Huamin Qu.
+
+*Understanding 3D Data Videos: From Screens to Virtual Reality.
+*IEEE PacificVis 2023
+*Leni Yang, Aoyu Wu, Wai Tong, Xian Xu, Zheng Wei, Huamin Qu.
+
+*From `Wow' to `Why': Guidelines for Creating the Opening of a Data Video with Cinematic Styles.
+*ACM CHI 2022
+*Xian Xu, Leni Yang, David Yip, Mingming Fan, Zheng Wei, Huamin Qu.
 
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}

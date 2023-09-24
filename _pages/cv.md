@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Film Production, Beijing Film Academy, 2013-2017
+(The global acceptance rate for this major is 0.5%)
+* MBA in Education Operations and Management, Beijing Normal University, 2020-2022
+* Mphil in Computational Media Arts, The Hong Kong University of Science and Technology(Guangzhou), 2022-2024 (expected)
 
 Work experience
 ======
@@ -38,6 +39,8 @@ Skills
 
 Publications
 ======
+Feeling Present! From Physical to Virtual Cinematography Lighting Education with Metashadow.
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
